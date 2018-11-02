@@ -1,4 +1,4 @@
-
+![image](https://github.com/chenjianfan/VlcTest/blob/master/images/2.png)
 
 
 HttpPushScreenTest类中直接运行mian命令
@@ -48,4 +48,4 @@ PlayerMain类中，直接运行，其中的127.0.0.1。就是录屏端的ip.
 			}
 		});
 
-![image](https://github.com/chenjianfan/VlcTest/blob/master/images/2.png)
+
